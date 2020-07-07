@@ -23,6 +23,5 @@ These are my implementations of the Programming Assignments for all courses in t
 
 # Course 4:
 - Floyd-Warshall All-Pairs Shortest Path Algorithm
--
--
--
+- Traveling Salesman Problem
+- 2SAT Problem
